@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="clearButtonColor">#EEEEAA</color>
+    <color name="numberButtonColor">#DDDDDD</color>
+    <color name="assignmentBackColor">#ff9999</color>
+    <color name="participationBackColor">#99ff99</color>
+    <color name="projectBackColor">#ffff99</color>
+    <color name="quizzesBackColor">#9999ff</color>
+    <color name="examBackColor">#ff99ff</color>
+    <color name="finalBackColor">#99aaff</color>
+    <color name="sliderBackColor">#aaff99</color>
+</resources>
